@@ -1,3 +1,8 @@
+#Other Files to be Ignored
+201908-citibike-tripdata.csv
+201908-citybike-tripdata-adj.csv
+.ipynb_checkpoints
+
 # Compiled class file
 *.class
 
